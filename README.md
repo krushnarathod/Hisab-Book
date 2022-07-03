@@ -5,11 +5,8 @@
 
 
 
-![1](https://user-images.githubusercontent.com/34826092/177025525-a94e7910-890a-4113-aa12-7e4b33f4c5b2.jpg | width=100)
+![1](https://user-images.githubusercontent.com/34826092/177025525-a94e7910-890a-4113-aa12-7e4b33f4c5b2.jpg)
 
-<p align="center">
-  <img width="460" height="300" src="[http://www.fillmurray.com/460/300](https://user-images.githubusercontent.com/34826092/177025525-a94e7910-890a-4113-aa12-7e4b33f4c5b2.jpg)">
-</p>
 ![2](https://user-images.githubusercontent.com/34826092/177025081-48d4d012-e4e8-4ea4-bdf3-14bdb954bf0c.jpg)
 ![3](https://user-images.githubusercontent.com/34826092/177025103-1e4d215a-05e3-4c97-9532-97366fa9e082.jpg)
 ![4](https://user-images.githubusercontent.com/34826092/177025109-6f52f677-3ec8-400b-999c-c67bde8c92a6.jpg)
