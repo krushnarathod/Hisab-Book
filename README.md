@@ -1,13 +1,2 @@
 # Hisab-Book
-![Uploading 8.jpg…![9](https://user-images.githubusercontent.com/34826092/177024939-99bfa46d-b0c4-493f-8402-dd7e918100e7.jpg)
-![10](https://user-images.githubusercontent.com/34826092/177024942-43aca589-b014-4c6f-9445-eb068fdb423b.jpg)
-![11](https://user-images.githubusercontent.com/34826092/177024944-b2929a92-45a8-456b-83c5-74fd313cb3f7.jpg)
-![12](https://user-images.githubusercontent.com/34826092/177024947-fdef977b-bbbf-4f4c-b5dd-10154fead46e.jpg)
-![1](https://user-images.githubusercontent.com/34826092/177024948-99238773-a102-4b72-b57d-6502610b20e5.jpg)
-![2](https://user-images.githubusercontent.com/34826092/177024951-23ecdd73-5865-4a79-bf2a-e94e01086fcd.jpg)
-![3](https://user-images.githubusercontent.com/34826092/177024954-a366efbd-a36d-4d4d-9817-5eafdc60035c.jpg)
-![4](https://user-images.githubusercontent.com/34826092/177024960-4cc6544c-d818-4f6e-a4e4-9e24557a45c4.jpg)
-![5](https://user-images.githubusercontent.com/34826092/177024961-aef49cb6-eae4-4285-aaf5-1b6fce13641a.jpg)
-![6](https://user-images.githubusercontent.com/34826092/177024965-64992e6a-25a8-4954-b414-e20a4ce03e29.jpg)
-![7](https://user-images.githubusercontent.com/34826092/177024967-a195b38f-4b47-46a9-9a21-77c4f48e51ef.jpg)
-]()
+
