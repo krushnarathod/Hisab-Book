@@ -1,6 +1,6 @@
 # Hisab-Book
 App Link
-https://github.com/krushnarathod/Hisab-Book/raw/main/HisabBook.apk   :point_left:
+:point_right: https://github.com/krushnarathod/Hisab-Book/raw/main/HisabBook.apk   
 
 <p align="center">
   <img width="230" height="511" src="https://user-images.githubusercontent.com/34826092/177025632-7ef2a25c-e043-4719-b80c-b846affa92f7.gif">
